@@ -8,3 +8,12 @@ c:\users\mike\documents\visual studio 2015\Projects\iNet v2.0\iNet v2.0\obj\Debu
 c:\users\mike\documents\visual studio 2015\Projects\iNet v2.0\iNet v2.0\obj\Debug\iNet v2.0.exe
 c:\users\mike\documents\visual studio 2015\Projects\iNet v2.0\iNet v2.0\obj\Debug\iNet v2.0.pdb
 c:\users\mike\documents\visual studio 2015\Projects\iNet v2.0\iNet v2.0\bin\Debug\MetroSet.UI.dll
+C:\Users\Mike\Source\Repos\MiguelAlvesMiguel\iNet\iNet v2.0\iNet v2.0\bin\Debug\iNet v2.0.exe.config
+C:\Users\Mike\Source\Repos\MiguelAlvesMiguel\iNet\iNet v2.0\iNet v2.0\obj\Debug\iNet v2.0.exe
+C:\Users\Mike\Source\Repos\MiguelAlvesMiguel\iNet\iNet v2.0\iNet v2.0\obj\Debug\iNet v2.0.pdb
+C:\Users\Mike\Source\Repos\MiguelAlvesMiguel\iNet\iNet v2.0\iNet v2.0\bin\Debug\iNet v2.0.exe
+C:\Users\Mike\Source\Repos\MiguelAlvesMiguel\iNet\iNet v2.0\iNet v2.0\bin\Debug\iNet v2.0.pdb
+C:\Users\Mike\Source\Repos\MiguelAlvesMiguel\iNet\iNet v2.0\iNet v2.0\obj\Debug\iNet v2.0.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Source\Repos\MiguelAlvesMiguel\iNet\iNet v2.0\iNet v2.0\obj\Debug\iNet_v2._0.Form1.resources
+C:\Users\Mike\Source\Repos\MiguelAlvesMiguel\iNet\iNet v2.0\iNet v2.0\obj\Debug\iNet_v2._0.Properties.Resources.resources
+C:\Users\Mike\Source\Repos\MiguelAlvesMiguel\iNet\iNet v2.0\iNet v2.0\obj\Debug\iNet v2.0.csproj.GenerateResource.Cache
