@@ -1,0 +1,5 @@
+c:\users\mike\documents\visual studio 2015\Projects\iNet v2.0\Classes\bin\Debug\Classes.dll
+c:\users\mike\documents\visual studio 2015\Projects\iNet v2.0\Classes\bin\Debug\Classes.pdb
+c:\users\mike\documents\visual studio 2015\Projects\iNet v2.0\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+c:\users\mike\documents\visual studio 2015\Projects\iNet v2.0\Classes\obj\Debug\Classes.dll
+c:\users\mike\documents\visual studio 2015\Projects\iNet v2.0\Classes\obj\Debug\Classes.pdb

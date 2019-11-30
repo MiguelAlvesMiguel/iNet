@@ -1,0 +1,10 @@
+c:\users\mike\documents\visual studio 2015\Projects\iNet v2.0\iNet v2.0\bin\Debug\iNet v2.0.exe.config
+c:\users\mike\documents\visual studio 2015\Projects\iNet v2.0\iNet v2.0\bin\Debug\iNet v2.0.exe
+c:\users\mike\documents\visual studio 2015\Projects\iNet v2.0\iNet v2.0\bin\Debug\iNet v2.0.pdb
+c:\users\mike\documents\visual studio 2015\Projects\iNet v2.0\iNet v2.0\obj\Debug\iNet v2.0.csprojResolveAssemblyReference.cache
+c:\users\mike\documents\visual studio 2015\Projects\iNet v2.0\iNet v2.0\obj\Debug\iNet_v2._0.Form1.resources
+c:\users\mike\documents\visual studio 2015\Projects\iNet v2.0\iNet v2.0\obj\Debug\iNet_v2._0.Properties.Resources.resources
+c:\users\mike\documents\visual studio 2015\Projects\iNet v2.0\iNet v2.0\obj\Debug\iNet v2.0.csproj.GenerateResource.Cache
+c:\users\mike\documents\visual studio 2015\Projects\iNet v2.0\iNet v2.0\obj\Debug\iNet v2.0.exe
+c:\users\mike\documents\visual studio 2015\Projects\iNet v2.0\iNet v2.0\obj\Debug\iNet v2.0.pdb
+c:\users\mike\documents\visual studio 2015\Projects\iNet v2.0\iNet v2.0\bin\Debug\MetroSet.UI.dll
