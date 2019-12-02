@@ -3,3 +3,8 @@ c:\users\mike\documents\visual studio 2015\Projects\iNet v2.0\Classes\bin\Debug\
 c:\users\mike\documents\visual studio 2015\Projects\iNet v2.0\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
 c:\users\mike\documents\visual studio 2015\Projects\iNet v2.0\Classes\obj\Debug\Classes.dll
 c:\users\mike\documents\visual studio 2015\Projects\iNet v2.0\Classes\obj\Debug\Classes.pdb
+C:\Users\Mike\Source\Repos\MiguelAlvesMiguel\iNet\iNet v2.0\Classes\bin\Debug\Classes.dll
+C:\Users\Mike\Source\Repos\MiguelAlvesMiguel\iNet\iNet v2.0\Classes\bin\Debug\Classes.pdb
+C:\Users\Mike\Source\Repos\MiguelAlvesMiguel\iNet\iNet v2.0\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Source\Repos\MiguelAlvesMiguel\iNet\iNet v2.0\Classes\obj\Debug\Classes.dll
+C:\Users\Mike\Source\Repos\MiguelAlvesMiguel\iNet\iNet v2.0\Classes\obj\Debug\Classes.pdb

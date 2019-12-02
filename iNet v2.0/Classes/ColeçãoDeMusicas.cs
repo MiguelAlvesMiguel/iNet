@@ -5,27 +5,30 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Collections;
 
-namespace Classes
+namespace iNet_v2._0
 {
    public class ColeçãoDeMusicas : CollectionBase 
    {
-      private Musica[] musicas;
 
+      //Indexer
       public Musica this[int idx]
-      {
+      {  
          get
-         {return musicas[idx];}
+         {
+            return  (Musica) List[idx] ;
+         }
          set
-         { musicas[idx] = value;}
+         {
+            List[idx] = value;
+         }
       }
+      //
+      //Builders
       public ColeçãoDeMusicas()
       {
-         Musica[] musicas = new Musica[100];
-      }
-      public ColeçãoDeMusicas(int n_musicas)
-      {
-         Musica[] musicas = new Musica[n_musicas];
+
       }
 
+      //
    }
 }

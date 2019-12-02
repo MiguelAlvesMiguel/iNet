@@ -5,27 +5,23 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Collections;
 
-namespace Classes
+namespace iNet_v2._0
 {
    public class ColeçãoDePlaylists : CollectionBase
    {
-     private Playlist[] Playlists;
-
+      //Props (INDEXER)
       public Playlist this[int idx]
       {
          get
-         { return Playlists[idx]; }
+         { return (Playlist) List[idx]; }
          set
-         { Playlists[idx] = value; }
+         { List[idx] = value; }
       }
-
+      //
+      //Builders
       public ColeçãoDePlaylists()
       {
-         Musica[] Playlists = new Musica[100];
       }
-      public ColeçãoDePlaylists(int n_musicas)
-      {
-         Musica[] Playlists = new Musica[n_musicas];
-      }
+      //
    }
 }

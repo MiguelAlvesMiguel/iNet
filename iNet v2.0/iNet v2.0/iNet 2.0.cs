@@ -10,11 +10,27 @@ using System.Windows.Forms;
 
 namespace iNet_v2._0
 {
-   public partial class Form1 : Form
+   public partial class FormMain : Form
    {
-      public Form1()
+      public ListView listView;
+
+      public FormMain()
       {
+         listView = lstPlaylists;
          InitializeComponent();
+      }
+ 
+
+      private void btnCriarPlaylist_Click(object sender, EventArgs e)
+      {
+
+         (new Form_CriarPlaylist() ).ShowDialog();
+
+      }
+
+      private void lslPlaylists_SelectedIndexChanged(object sender, EventArgs e)
+      {
+
       }
    }
 }

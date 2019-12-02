@@ -47,8 +47,17 @@
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
+    <Reference Include="taglib-sharp">
+      <HintPath>..\..\..\..\..\..\Documents\Visual Studio 2015\Projects\iNet v2.0\taglib-sharp.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Form_CriarPlaylist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_CriarPlaylist.Designer.cs">
+      <DependentUpon>Form_CriarPlaylist.cs</DependentUpon>
+    </Compile>
     <Compile Include="iNet 2.0.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -57,6 +66,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form_CriarPlaylist.resx">
+      <DependentUpon>Form_CriarPlaylist.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="iNet 2.0.resx">
       <DependentUpon>iNet 2.0.cs</DependentUpon>
     </EmbeddedResource>
@@ -85,6 +97,12 @@
   <ItemGroup>
     <Content Include="Musicas.xml" />
     <Content Include="Playlists.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Classes\Classes.csproj">
+      <Project>{34ce7a40-8c59-49f8-aa34-9153ee97c27c}</Project>
+      <Name>Classes</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
